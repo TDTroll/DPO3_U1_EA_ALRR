@@ -1,0 +1,3 @@
+# Catálogo de Alcaldías - Ferretería La Golondrina
+# Formato: nombre|alcalde|poblacion|telefono
+Álvaro Obregón|Pay de limón|759137|5555550101

@@ -1,0 +1,15 @@
+# Archivos generados por el build de NetBeans (Ant)
+build/
+dist/
+*.class
+
+# Propiedades privadas del proyecto (dependen de cada equipo)
+nbproject/private/
+
+# Archivo de texto generado al ejecutar la aplicación.
+# Se conserva un ejemplo en la raíz, por eso NO se ignora aquí.
+
+# Salida de compilación de IntelliJ IDEA y archivos del IDE
+out/
+.idea/
+*.iml
